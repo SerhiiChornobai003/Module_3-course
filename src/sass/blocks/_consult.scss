@@ -1,0 +1,21 @@
+.consult { 
+    min-height: 688px;
+    background: url('../../img/consultation.jpg') center (center/cover) no-repeat;
+    &__title {
+        padding-top: 100px; 
+        color: #FFF;
+        font-size: 35px;
+        font-weight: 700;
+        line-height: 54px; /* 150% */
+        text-transform: uppercase;
+    }
+    &__subtitle {
+        margin-top: 8px; 
+        color: #FFF;
+        font-family: MuseoModerno;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 30px; 
+    }
+}
